@@ -1,1 +1,1 @@
-University Ti,me Table Generator
+University Time Table Generator
